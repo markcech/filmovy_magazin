@@ -1,6 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import movies from "../../movie-database";
+
 import { ErrorPage } from "../../";
 import "./style.css";
 
@@ -15,7 +16,7 @@ export const Movie = () => {
         <img src={movie.poster} alt={movie.title} />
       </div>
 
-      <div>
+      <div className="movieInformations">
         <h2 className="movieTitle">{movie.title}</h2>
 
         <p>{movie.storyline}</p>

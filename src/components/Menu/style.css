@@ -4,6 +4,7 @@
 	display: flex;
 	background-color: #07333A;
 	margin-bottom: 2rem;
+	border-radius: 20px 0 20px 0 ;
 }
 
 .menu .menu_link {
@@ -14,11 +15,11 @@
 }
 
 .menu .menu_link:hover {
-	background-color: #4A787F;
+	background-color: #385b61;
 }
 
 .menu a.active {
-	background-color: #4A787F;
+	background-color: #385b61;
 }
 
 .title{

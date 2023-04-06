@@ -16,3 +16,12 @@ h2 {
 .movieTitle{
 	font-family: 'Lobster', cursive;
 }
+.movieInformations{
+	background-color: rgb(255, 255, 255);
+	padding: 1rem;
+	border-color:  #07333A;
+	border-width: 2px;
+	border-radius: 20px 0 20px 0 ;
+	border-style: solid;
+}
+
