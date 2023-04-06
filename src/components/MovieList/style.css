@@ -1,0 +1,25 @@
+
+/* movie list */
+.movie-list {
+	flex: 0 0 25%;
+	display: flex;
+	flex-direction: column;
+	background-color: #0C5C6A;
+}
+
+.movie-list .list_link {
+	display: block;
+	padding: 1rem;
+	color: white;
+	text-decoration: none;
+}
+
+.movie-list .list_link:hover {
+	background-color: #4A787F;
+}
+
+
+.movie-list a.active {
+	background-color: #4A787F;
+	color: white;
+}
