@@ -24,4 +24,5 @@
 .movie-list a.active {
 	background-color: #517075;
 	color: white;
+	border-radius: 20px 0 20px 0 ;
 }
