@@ -16,6 +16,7 @@
 
 .menu .menu_link:hover {
 	background-color: #385b61;
+	border-radius: 20px 0 20px 0 ;
 }
 
 .menu a.active {

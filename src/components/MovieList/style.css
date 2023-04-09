@@ -17,6 +17,7 @@
 
 .movie-list .list_link:hover {
 	background-color: #517075;
+	border-radius: 20px 0 20px 0 ;
 }
 
 
